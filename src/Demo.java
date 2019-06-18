@@ -11,6 +11,8 @@ public class Demo {
 		driver.manage().window().maximize();
 		//driver.navigate("http://www.google.com");
 		System.out.println("Hello");
+		System.out.println("Hello1");
+		System.out.println("Hello3");
 
 	}
 
